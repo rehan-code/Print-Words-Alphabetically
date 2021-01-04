@@ -1,5 +1,4 @@
 Author: Rehan Nagoor Mohideen
-Student ID: 1100592
 
 To run the program: make all
 then: ./alphabetical_printing
